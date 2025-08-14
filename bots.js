@@ -1,3 +1,4 @@
+// Forzando la actualización
 const BOTS_LIST = [
     {
         "nombre": "Acelin",
