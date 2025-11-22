@@ -12,7 +12,7 @@ const BOTS_LIST = [
         "nombre": "Próximamente",
         "url": "https://elbachira.github.io/Aguenelle/",
         "imagen": "",
-        "genero": "masculino"
+        "genero": "masculino" // <-- La clave mágica
     },
     }
 
