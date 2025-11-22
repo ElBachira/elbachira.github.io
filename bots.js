@@ -9,7 +9,7 @@ const BOTS_LIST = [
         "genero": "masculino" // <-- La clave mágica
     },
     {
-        "nombre": "Próximamente",
+        "nombre": "En espera",
         "url": "https://elbachira.github.io/Aguenelle/",
         "imagen": "",
         "genero": "masculino" // <-- La clave mágica
