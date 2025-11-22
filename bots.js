@@ -6,17 +6,13 @@ const BOTS_LIST = [
         "nombre": "Próximamente",
         "url": "https://elbachira.github.io/Alejandro/",
         "imagen": "https://i.postimg.cc/wj0fJsWN/Alejandro.jpg",
-        "genero": "masculino" // <-- La clave mágica
+        "genero": "masculino"
     },
     {
         "nombre": "En espera",
         "url": "https://elbachira.github.io/Aguenelle/",
-        "imagen": "",
-        "genero": "masculino" // <-- La clave mágica
-    },
-    }
-
-    // --- Aquí seguirás añadiendo el resto de tus bots ---
-    // Simplemente copia un bloque, pégalo y cambia los datos.
-    // Recuerda poner una coma , entre cada bloque.
+        "imagen": "", 
+        "genero": "masculino"
+    } 
+    // Simplemente copia un bloque anterior, pégalo aquí y añade una coma al bloque de arriba si agregas más.
 ];
