@@ -6,17 +6,7 @@ const BOTS_LIST = [
         "nombre": "Próximamente",
         "url": "https://elbachira.github.io/Alejandro/",
         "imagen": "https://i.postimg.cc/wj0fJsWN/Alejandro.jpg",
-        "genero": "masculino"
-    },
-   
-    },
-
-    // --- BOTS FEMENINOS ---
-    {
-        "nombre": "Aceline",
-        "url": "https://elbachira.github.io/Aceline/",
-        "imagen": "https://i.postimg.cc/L6kcDSFq/Aceline.png",
-        "genero": "femenino" // <-- La clave mágica
+        "genero": "masculino" // <-- La clave mágica
     },
     {
         "nombre": "Aguenelle",
