@@ -3,16 +3,23 @@
 const BOTS_LIST = [
     // --- BOTS MASCULINOS ---
     {
-        "nombre": "Próximamente",
+        "nombre": "Alejandro",
         "url": "https://elbachira.github.io/Alejandro/",
-        "imagen": "https://i.postimg.cc/wj0fJsWN/Alejandro.jpg",
+        "imagen": "https://files.catbox.moe/pi6xh1.jpg",
         "genero": "masculino"
     },
     {
-        "nombre": "En espera",
-        "url": "https://elbachira.github.io/Aguenelle/",
+        "nombre": "Haru Próximamente",
+        "url": "https://elbachira.github.io/Haru/",
         "imagen": "", 
         "genero": "masculino"
-    } 
+    },
+    
+    {
+        "nombre": "En espers",
+        "url": "https://elbachira.github.io/Edward/",
+        "imagen": "", 
+        "genero": "masculino"
+    }
     // Simplemente copia un bloque anterior, pégalo aquí y añade una coma al bloque de arriba si agregas más.
 ];
