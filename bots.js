@@ -16,7 +16,7 @@ const BOTS_LIST = [
     },
     
     {
-        "nombre": "En espers",
+        "nombre": "En espera",
         "url": "https://elbachira.github.io/Edward/",
         "imagen": "", 
         "genero": "masculino"
