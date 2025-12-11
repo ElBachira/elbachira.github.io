@@ -9,9 +9,9 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
-        "nombre": "Haru Próximamente",
+        "nombre": "Haru",
         "url": "https://elbachira.github.io/Haru/",
-        "imagen": "", 
+        "imagen": "https://files.catbox.moe/b7ycmi.webp", 
         "genero": "masculino"
     },
     {
@@ -21,7 +21,7 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
-        "nombre": "En espera",
+        "nombre": "Drexle Próximamente",
         "url": "https://elbachira.github.io/Edward/",
         "imagen": "", 
         "genero": "masculino"
