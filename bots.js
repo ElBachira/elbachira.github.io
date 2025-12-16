@@ -11,7 +11,7 @@ const BOTS_LIST = [
     {
         "nombre": "Drexler ya pronto",
         "url": "https://elbachira.github.io/Drexler/",
-        "imagen": "https://files.catbox.moe/gwbdnw.jpg", 
+        "imagen": "https://files.catbox.moe/5yywo7.webp", 
         "genero": "masculino"
     },
     {
