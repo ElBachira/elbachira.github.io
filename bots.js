@@ -9,6 +9,12 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Drexler ya pronto",
+        "url": "https://elbachira.github.io/Drexler/",
+        "imagen": "https://files.catbox.moe/gwbdnw.jpg", 
+        "genero": "masculino"
+    },
+    {
         "nombre": "Haru",
         "url": "https://elbachira.github.io/Haru/",
         "imagen": "https://files.catbox.moe/b7ycmi.webp", 
@@ -21,7 +27,13 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
-        "nombre": "Drexle Próximamente",
+        "nombre": "Silas",
+        "url": "https://elbachira.github.io/Silas/",
+        "imagen": "https://files.catbox.moe/hhpuzv.jpg", 
+        "genero": "masculino"
+    },
+    {
+        "nombre": "Próximamente",
         "url": "https://elbachira.github.io/Edward/",
         "imagen": "", 
         "genero": "masculino"
