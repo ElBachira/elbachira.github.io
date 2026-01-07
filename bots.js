@@ -1,7 +1,9 @@
 // Archivo bots.js completo y actualizado
 
 const BOTS_LIST = [
+    // =================================================================
     // --- BOTS MASCULINOS ---
+    // =================================================================
     {
         "nombre": "Alejandro",
         "url": "https://elbachira.github.io/Alejandro/",
@@ -35,14 +37,35 @@ const BOTS_LIST = [
     {
         "nombre": "Silas",
         "url": "https://elbachira.github.io/Silas/",
-        "imagen": "https://files.catbox.moe/hhpuzv.jpg", 
+        "imagen": "https://files.catbox.moe/1907g8.jpg", 
         "genero": "masculino"
     },
     {
-        "nombre": "Próximamente",
-        "url": "https://elbachira.github.io/Edward/",
-        "imagen": "", 
+        "nombre": "Archibald",
+        "url": "https://elbachira.github.io/Archibald/",
+        "imagen": "https://files.catbox.moe/your_archibald_image.jpg", 
         "genero": "masculino"
+    },
+
+    // =================================================================
+    // --- BOTS FEMENINOS (Edita estos datos) ---
+    // =================================================================
+    {
+        "nombre": "Alya (Ejemplo)",
+        "url": "https://elbachira.github.io/Alya/",
+        "imagen": "https://files.catbox.moe/ejemplo1.jpg", 
+        "genero": "femenino"
+    },
+    {
+        "nombre": "Evelyn (Ejemplo)",
+        "url": "https://elbachira.github.io/Evelyn/",
+        "imagen": "https://files.catbox.moe/ejemplo2.jpg", 
+        "genero": "femenino"
+    },
+    {
+        "nombre": "Mika (Ejemplo)",
+        "url": "https://elbachira.github.io/Mika/",
+        "imagen": "https://files.catbox.moe/ejemplo3.jpg", 
+        "genero": "femenino"
     }
-    // Simplemente copia un bloque anterior, pégalo aquí y añade una coma al bloque de arriba si agregas más.
 ];
