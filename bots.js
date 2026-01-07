@@ -37,7 +37,7 @@ const BOTS_LIST = [
     {
         "nombre": "Silas",
         "url": "https://elbachira.github.io/Silas/",
-        "imagen": "https://files.catbox.moe/1907g8.jpg", 
+        "imagen": "https://files.catbox.moe/iwhzh0.png", 
         "genero": "masculino"
     },
     {
