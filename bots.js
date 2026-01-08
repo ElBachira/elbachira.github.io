@@ -29,6 +29,12 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Jessamy",
+        "url": "https://elbachira.github.io/Jessamy/",
+        "imagen": "https://files.catbox.moe/jzvcnh.webp", 
+        "genero": "masculino"
+    },
+    {
         "nombre": "Kardi",
         "url": "https://elbachira.github.io/Kardi/",
         "imagen": "https://files.catbox.moe/gwbdnw.jpg", 
@@ -51,19 +57,19 @@ const BOTS_LIST = [
     // --- BOTS FEMENINOS (Edita estos datos) ---
     // =================================================================
     {
-        "nombre": "Alya (Ejemplo)",
+        "nombre": "Próximamente",
         "url": "https://elbachira.github.io/Alya/",
         "imagen": "https://files.catbox.moe/ejemplo1.jpg", 
         "genero": "femenino"
     },
     {
-        "nombre": "Evelyn (Ejemplo)",
-        "url": "https://elbachira.github.io/Evelyn/",
-        "imagen": "https://files.catbox.moe/ejemplo2.jpg", 
+        "nombre": "Jessamell",
+        "url": "https://elbachira.github.io/Jessamell/",
+        "imagen": "https://files.catbox.moe/2fckts.webp", 
         "genero": "femenino"
     },
     {
-        "nombre": "Mika (Ejemplo)",
+        "nombre": "Próximamente",
         "url": "https://elbachira.github.io/Mika/",
         "imagen": "https://files.catbox.moe/ejemplo3.jpg", 
         "genero": "femenino"
