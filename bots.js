@@ -53,6 +53,12 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Lenny",
+        "url": "https://elbachira.github.io/Lenny/",
+        "imagen": "https://files.catbox.moe/5tv1t4.png", 
+        "genero": "masculino"
+    },
+    {
         "nombre": "Léonel",
         "url": "https://elbachira.github.io/Leonel/",
         "imagen": "https://files.catbox.moe/rnmoa2.png", 
