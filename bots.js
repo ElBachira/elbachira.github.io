@@ -55,7 +55,7 @@ const BOTS_LIST = [
     {
         "nombre": "Léonel",
         "url": "https://elbachira.github.io/Leonel/",
-        "imagen": "https://files.catbox.moe/wcbz1s.png", 
+        "imagen": "https://files.catbox.moe/rnmoa2.png", 
         "genero": "masculino"
     },
     {
