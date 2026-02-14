@@ -67,7 +67,7 @@ const BOTS_LIST = [
     {
         "nombre": "Rhykar",
         "url": "https://elbachira.github.io/Rhykar/",
-        "imagen": "https://files.catbox.moe/uewd7b.png", 
+        "imagen": "https://i.postimg.cc/v8J5CXp0/stellan.png", 
         "genero": "masculino"
     },
     {
