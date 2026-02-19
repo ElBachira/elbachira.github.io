@@ -11,6 +11,12 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Brahms",
+        "url": "https://elbachira.github.io/Brahms/",
+        "imagen": "https://files.catbox.moe/q4x0nc.jpg",
+        "genero": "masculino"
+    },
+    {
         "nombre": "Drexler",
         "url": "https://elbachira.github.io/Drexler/",
         "imagen": "https://files.catbox.moe/yas4xb.png", 
@@ -62,6 +68,12 @@ const BOTS_LIST = [
         "nombre": "Léonel",
         "url": "https://elbachira.github.io/Leonel/",
         "imagen": "https://files.catbox.moe/rnmoa2.png", 
+        "genero": "masculino"
+    },
+    {
+        "nombre": "Megamo",
+        "url": "https://files.catbox.moe/4mswio.png",
+        "imagen": "https://files.catbox.moe/pi6xh1.jpg",
         "genero": "masculino"
     },
     {
