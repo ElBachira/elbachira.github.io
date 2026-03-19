@@ -11,6 +11,12 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Altherian",
+        "url": "https://elbachira.github.io/Altherian/",
+        "imagen": "https://files.catbox.moe/5jy43s.png", 
+        "genero": "masculino"
+    },
+    {
         "nombre": "Brahms",
         "url": "https://elbachira.github.io/Brahms/",
         "imagen": "https://files.catbox.moe/q4x0nc.jpg",
@@ -65,6 +71,12 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Juan",
+        "url": "https://elbachira.github.io/Juan/",
+        "imagen": "https://files.catbox.moe/7qfwsd.jpg", 
+        "genero": "masculino"
+    },
+    {
         "nombre": "Kardi",
         "url": "https://elbachira.github.io/Kardi/",
         "imagen": "https://files.catbox.moe/gwbdnw.jpg", 
@@ -84,8 +96,14 @@ const BOTS_LIST = [
     },
     {
         "nombre": "Megamo",
-        "url": "https://files.catbox.moe/4mswio.png",
+        "url": "https://elbachira.github.io/Megamo-/",
         "imagen": "https://files.catbox.moe/pi6xh1.jpg",
+        "genero": "masculino"
+    },
+    {
+        "nombre": "Osorō",
+        "url": "https://elbachira.github.io/Osoro/",
+        "imagen": "https://files.catbox.moe/plqy7z.png", 
         "genero": "masculino"
     },
     {
@@ -107,6 +125,12 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Tae-Ha",
+        "url": "https://elbachira.github.io/Tae-Ha/",
+        "imagen": "https://files.catbox.moe/96hwnw.png", 
+        "genero": "masculino"
+    },
+    {
         "nombre": "Archibald",
         "url": "https://elbachira.github.io/Archibald/",
         "imagen": "https://files.catbox.moe/your_archibald_image.jpg", 
@@ -120,6 +144,12 @@ const BOTS_LIST = [
         "nombre": "Próximamente",
         "url": "https://elbachira.github.io/Alya/",
         "imagen": "https://files.catbox.moe/ejemplo1.jpg", 
+        "genero": "femenino"
+    },
+            {
+        "nombre": "Altheris",
+        "url": "https://elbachira.github.io/Altheris/",
+        "imagen": "https://files.catbox.moe/35vw3y.png", 
         "genero": "femenino"
     },
     {
