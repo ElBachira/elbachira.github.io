@@ -89,15 +89,15 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
-        "nombre": "Léonel",
-        "url": "https://elbachira.github.io/Leonel/",
-        "imagen": "https://files.catbox.moe/rnmoa2.png", 
-        "genero": "masculino"
-    },
-    {
         "nombre": "Megamo",
         "url": "https://elbachira.github.io/Megamo-/",
         "imagen": "https://files.catbox.moe/pi6xh1.jpg",
+        "genero": "masculino"
+    },
+    {
+        "nombre": "Léonel",
+        "url": "https://elbachira.github.io/Leonel/",
+        "imagen": "https://files.catbox.moe/rnmoa2.png", 
         "genero": "masculino"
     },
     {
