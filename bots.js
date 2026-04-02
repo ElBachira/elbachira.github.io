@@ -29,9 +29,9 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
-        "nombre": "Edward Próximamente",
-        "url": "https://elbachira.github.io/Kardi/",
-        "imagen": "", 
+        "nombre": "Elisha",
+        "url": "https://elbachira.github.io/ElishaIber/",
+        "imagen": "https://files.catbox.moe/daxy9o.png", 
         "genero": "masculino"
     },
     {
