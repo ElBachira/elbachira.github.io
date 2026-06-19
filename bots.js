@@ -121,7 +121,7 @@ const BOTS_LIST = [
     {
         "nombre": "Megamo",
         "url": "https://elbachira.github.io/Megamo-/",
-        "imagen": "https://files.catbox.moe/pi6xh1.jpg",
+        "imagen": "https://files.catbox.moe/lfq6cx.jpg",
         "genero": "masculino"
     },
     {
