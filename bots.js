@@ -17,6 +17,12 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Bowser",
+        "url": "https://elbachira.github.io/Bowser/",
+        "imagen": "https://files.catbox.moe/5ula1m.webp", 
+        "genero": "masculino"
+    },
+    {
         "nombre": "Brahms",
         "url": "https://elbachira.github.io/Brahms/",
         "imagen": "https://files.catbox.moe/q4x0nc.jpg",
@@ -41,9 +47,21 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Freterhard",
+        "url": "https://elbachira.github.io/Freterhard/",
+        "imagen": "https://files.catbox.moe/ole0r3.jpg", 
+        "genero": "masculino"
+    },
+    {
         "nombre": "Haru",
         "url": "https://elbachira.github.io/Haru/",
         "imagen": "https://files.catbox.moe/b7ycmi.webp", 
+        "genero": "masculino"
+    },
+    {
+        "nombre": "Ichirou",
+        "url": "https://elbachira.github.io/Ichirou/",
+        "imagen": "https://files.catbox.moe/1cc6zq.jpg", 
         "genero": "masculino"
     },
     {
@@ -62,6 +80,12 @@ const BOTS_LIST = [
         "nombre": "Jack Heart",
         "url": "https://elbachira.github.io/JackHeart/",
         "imagen": "https://i.postimg.cc/tRzsg27v/image-3.jpg", 
+        "genero": "masculino"
+    },
+    {
+        "nombre": "Jaufré",
+        "url": "https://elbachira.github.io/Jaufre/",
+        "imagen": "https://files.catbox.moe/sq38v3.webp", 
         "genero": "masculino"
     },
     {
@@ -89,6 +113,12 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
+        "nombre": "Léonel",
+        "url": "https://elbachira.github.io/Leonel/",
+        "imagen": "https://files.catbox.moe/rnmoa2.png", 
+        "genero": "masculino"
+    },
+    {
         "nombre": "Megamo",
         "url": "https://elbachira.github.io/Megamo-/",
         "imagen": "https://files.catbox.moe/pi6xh1.jpg",
@@ -101,9 +131,9 @@ const BOTS_LIST = [
         "genero": "masculino"
     },
     {
-        "nombre": "Léonel",
-        "url": "https://elbachira.github.io/Leonel/",
-        "imagen": "https://files.catbox.moe/rnmoa2.png", 
+        "nombre": "Okaru",
+        "url": "https://elbachira.github.io/Okaru/",
+        "imagen": "https://files.catbox.moe/zcw9ow.webp", 
         "genero": "masculino"
     },
     {
@@ -128,6 +158,12 @@ const BOTS_LIST = [
         "nombre": "Silas",
         "url": "https://elbachira.github.io/Silas/",
         "imagen": "https://files.catbox.moe/iwhzh0.png", 
+        "genero": "masculino"
+    },
+    {
+        "nombre": "Vianey",
+        "url": "https://elbachira.github.io/Vianey/",
+        "imagen": "https://files.catbox.moe/v7ne48.jpg", 
         "genero": "masculino"
     },
     {
@@ -167,13 +203,19 @@ const BOTS_LIST = [
     {
         "nombre": "Jessamell",
         "url": "https://elbachira.github.io/Jessamell/",
-        "imagen": "https://files.catbox.moe/2fckts.webp", 
+        "imagen": "https://files.catbox.moe/e0s68b.jpg", 
         "genero": "femenino"
     },
     {
-        "nombre": "Próximamente",
-        "url": "https://elbachira.github.io/Mika/",
-        "imagen": "https://files.catbox.moe/ejemplo3.jpg", 
+        "nombre": "Oka",
+        "url": "https://elbachira.github.io/Oka/",
+        "imagen": "https://files.catbox.moe/n8r4r3.webp", 
+        "genero": "femenino"
+    },
+    {
+        "nombre": "Valentina",
+        "url": "https://elbachira.github.io/Valentina/",
+        "imagen": "https://files.catbox.moe/mreenl.jpg", 
         "genero": "femenino"
     }
 ];
